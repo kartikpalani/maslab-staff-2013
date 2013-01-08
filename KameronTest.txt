@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 push test
 push test2
 push test 3
+=======
+push test
+push test2
+Rishi
+>>>>>>> 9168c2965bd8507c5ae05151aa1dacf12edd9669
