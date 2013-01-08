@@ -1,14 +1,1 @@
-void setup(){
-  
-  pinMode(4,OUTPUT); //Motor 1 Direction
-  pinMode(5,OUTPUT); //Motor 1 PWM
-  pinMode(9,OUTPUT); //Motor 2 Direction
-  pinMode(10,OUTPUT);// Motor 2 PWM
-}
 
-void loop(){
-  digitalWrite(4,LOW);
-  analogWrite(5,100);
-  digitalWrite(9,HIGH);
-  analogWrite(10,100);
-}
